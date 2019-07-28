@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2008.07.10 15:01:01.562.pas,D:\Dokumente und Einstellungen\Link\Eigene Dateien\Borland Studio-Projekte\Unit2.pas=C:\delpro\codelist\src\list.pas</Transaction>
+    <Transaction>2008.07.10 15:01:04.109.pas,D:\Dokumente und Einstellungen\Link\Eigene Dateien\Borland Studio-Projekte\Unit1.pas=C:\delpro\codelist\src\mform.pas</Transaction>
+    <Transaction>2008.07.10 15:01:04.109.dfm,D:\Dokumente und Einstellungen\Link\Eigene Dateien\Borland Studio-Projekte\Unit1.dfm=C:\delpro\codelist\src\mform.dfm</Transaction>
+    <Transaction>2008.07.10 15:01:10.500.bdsproj,D:\Dokumente und Einstellungen\Link\Eigene Dateien\Borland Studio-Projekte\Project1.bdsproj=C:\delpro\codelist\codemanager.bdsproj</Transaction>
+    <Transaction>2008.07.11 12:09:54.875.pas,C:\delpro\codelist\Unit1.pas=C:\delpro\codelist\src\codelistmgmt.pas</Transaction>
+    <Transaction>2008.07.28 17:32:13.828.pas,D:\delpro\codelist\Unit1.pas=D:\delpro\codelist\src\savequest.pas</Transaction>
+    <Transaction>2008.07.28 17:32:13.828.dfm,D:\delpro\codelist\Unit1.dfm=D:\delpro\codelist\src\savequest.dfm</Transaction>
+    <Transaction>2008.07.30 12:05:06.484.pas,C:\delpro\codelist\Unit1.pas=C:\delpro\codelist\src\langdata.pas</Transaction>
+    <Transaction>2008.08.25 11:47:02.531.pas,D:\delpro\codelist\Unit1.pas=D:\delpro\codelist\src\geckooslist.pas</Transaction>
+    <Transaction>2008.08.25 11:47:02.531.dfm,D:\delpro\codelist\Unit1.dfm=D:\delpro\codelist\src\geckooslist.dfm</Transaction>
+    <Transaction>2008.09.01 11:52:00.765.pas,D:\delpro\codelist\Unit1.pas=D:\delpro\codelist\src\goscodes.pas</Transaction>
+    <Transaction>2008.09.02 12:05:59.734.pas,D:\delpro\codelist\Unit1.pas=D:\delpro\codelist\src\gosmgmt.pas</Transaction>
+    <Transaction>2008.09.02 13:20:46.218.pas,D:\delpro\codelist\Unit1.pas=D:\delpro\codelist\src\SwapFunctions.pas</Transaction>
+  </Transactions>
+</BorlandProject>
